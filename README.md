@@ -82,10 +82,11 @@ Printers, Bookcases, Saree, Accessories, and Tables analyzed for profitability.
 ```
 📁 PowerBI-Ecommerce-Sales-Dashboard
 │
-├── 📄 Sales_Dataset.csv
-├── 📄 Ecommerce_Dashboard.pbix
-├── 🖼️ Dashboard_Screenshot.png
+├── 📄 Details.csv
+├── 📄 Orders.csv
 └── 📄 README.md
+├── 🖼️ Screenshot 2025-12-12 053811.png
+├── 📄 Shiva Ecommerce Sales Dashboard.pbix
 ```
 
 ---
